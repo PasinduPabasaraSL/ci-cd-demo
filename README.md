@@ -9,5 +9,4 @@ This is a simple Node.js application demonstrating a full CI/CD pipeline. It use
 - **CD Pipeline:** Vercel auto-deploys the app on every push to the `main` branch.
 
 ## Live Demo
-Check out the deployed app: [https://cicd-demo.vercel.app](https://cicd-demo.vercel.app)  
-*(Replace with your actual Vercel URL once deployed!)*
+Check out the deployed app: [https://cicd-demo.vercel.app](https://ci-cd-demo-git-main-pasindupabasarasls-projects.vercel.app/)  
